@@ -1,11 +1,6 @@
-Hi,this is practice for git.\n
+Hi,this is a practice about git\n
 
-first,use a new branch.
-    well,im testing a new branch.This is writing someting.
-    im melonccc.
+Task: mutil-branch dev parctice
+    create a new branch and code someting and then merge it to main or other active.
     ok,its all done.i finished new branch dev practice.yeeeee.;
-
-
-
-
 
